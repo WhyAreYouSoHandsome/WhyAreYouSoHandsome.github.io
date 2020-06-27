@@ -1,2 +1,0 @@
-# gaz.github.io
-blog
