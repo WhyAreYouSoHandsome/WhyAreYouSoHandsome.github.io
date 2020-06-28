@@ -8,7 +8,7 @@ hide: (つェ⊂)我藏好啦
 show: ´∇｀ 呀被发现啦~ 
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: https://whyareyousohandsome.github.io/gaz.github.io # change this to the base hostname & protocol for your site
+url: "https://whyareyousohandsome.github.io/gaz.github.io" # change this to the base hostname & protocol for your site
 root: /gaz.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
