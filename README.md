@@ -18,7 +18,6 @@
 ![hydrogen](/theme/a-h.png)
 
 ## #准备
-
 打开主题根目录下的`_config.yml`
 
 根据需求修改以下选项：
